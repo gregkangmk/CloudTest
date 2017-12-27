@@ -2,6 +2,6 @@
 //
 // Cloud Code for mod_LeaguePlacement, write your code here to customize the GameSparks platform.
 //
-// For details of the GameSparks Cloud Code API see https://docs.gamesparks.com/
+// 한글이 되느냐의 문제가 있습니다.
 //
 // ====================================================================================================
